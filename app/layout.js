@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Binance Support Tool",
+  title: "Binance Support Management Tool",
   description: "A tool to assist with Binance support tasks.",
 };
 
