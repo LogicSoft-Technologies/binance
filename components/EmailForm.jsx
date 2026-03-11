@@ -286,7 +286,7 @@ export default function EmailForm() {
           textAlign: "center", marginTop: "20px",
           fontSize: "12px", color: B.textMuted, lineHeight: "18px",
         }}>
-          Emails are delivered instantly · Replies go to your support inbox
+          Emails are delivered instantly· Replies go to your support inbox
         </p>
 
       </div>
